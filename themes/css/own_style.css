@@ -1,0 +1,128 @@
+.con-pem{
+	padding: 40px;
+}
+.fpem{
+	font-size: 10px; font-weight: bold; letter-spacing: 2px;
+}
+.icon-pem{
+	padding-right: 10px;
+}
+.title-page{
+	text-align: center;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+.bank-ex{
+	text-align: left;
+}
+.f-faq{
+	margin-left: 30px;
+	color: 	#b2b2b2;
+	letter-spacing: 3px;
+}
+.f-bank{
+	color: 	#b2b2b2;
+	letter-spacing: 3px;
+}
+.l-pem1{
+	width:200px;
+	margin-left: 10px;
+	height: 10px;
+}
+.l-pem2{
+	width:300px;
+	margin-left: 0px;
+	height: 10px;
+}
+.w-abt{
+	margin-top: 100px;
+
+}
+.flip{
+	width: 100%;
+	height: auto;
+}
+.img-flip{
+	margin: 0px auto;
+	display: block;
+}
+.back{
+	background-color: transparent;
+	margin: 0px auto;
+	display: block;	
+}
+.table-cart{
+   width:100%;
+   margin: 0px 50px;
+}
+.table-cart thead {
+    white-space: nowrap;  /** added **/		    
+    font-size: 12px;	
+   	text-align: center;
+    font-weight: bold;
+}
+.logo-img{
+	padding: 50px;
+}
+.img-product{
+	width: 20%;
+}
+.btn-sbmt{
+	margin-left: 50px;
+}
+.btn-edit{
+	margin: 10px 0px;
+}
+.wrap-profil{
+	margin: 0px 100px;
+}
+
+/*image gallery*/
+.main-content{
+	margin-left: 10px;
+}
+.span3{
+	margin-left: -1px;
+	padding-right: 15px;
+	
+}
+.product-box{
+	border:2px solid #b2b2b2;
+	margin-bottom: 5px;
+}
+.k-img{
+	max-width: 100%;
+	padding: 5px;
+}
+/*parent*/
+/*child*/
+.product-box:hover{
+	transform:scale(1.1);
+}
+.name-brand{
+	font-weight: bold;
+	font-size: 15px;
+	color: #b2b2b2;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+.name-product{
+	margin-bottom: -3px;
+	font-weight: bold;
+	font-size: 10px;
+	color: black;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+
+}
+.harga-brand{
+	font-weight: bold;
+	font-size: 10px;
+	color: black;
+	letter-spacing: 2px;
+}
+.empty{
+	letter-spacing: 3px;
+	color: #b2b2b2;
+	margin: 100px 0px;
+}
